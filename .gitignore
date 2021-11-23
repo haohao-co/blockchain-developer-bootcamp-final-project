@@ -1,0 +1,9 @@
+.env
+.idea_modules/
+.idea
+node_modules
+bin_output
+logs
+
+client/node_modules
+client/logs
