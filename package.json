@@ -3,6 +3,7 @@
     "@openzeppelin/contracts": "^4.3.3"
   },
   "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
     "dotenv": "^10.0.0",
     "gh-pages": "^3.2.3",
     "openzeppelin-solidity": "4.3.3",
